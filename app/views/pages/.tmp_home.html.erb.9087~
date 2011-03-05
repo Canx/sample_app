@@ -1,0 +1,4 @@
+<h1>Sample App</h1>
+<p>Página de inicio</p>
+
+<%=link_to "Inicia sesión", "#", :class => "signup_button round" %>
